@@ -1,0 +1,1 @@
+*{box-sizing:border-box}.board{background:black;display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;aspect-ratio:1/1;padding:4px}.square{display:block;font-size:42px;font-weight:700;width:30%;height:30%}.win{background:salmon}.active{background:lightskyblue}@media (min-width: 416px){.board{width:400px}}
